@@ -1,0 +1,25 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "clk" LOC = AG18;
+NET "dataA[3]" LOC = U25;
+NET "dataA[2]" LOC = AG27;
+NET "dataA[1]" LOC = AF25;
+NET "dataA[0]" LOC = AF26;
+NET "dataB[3]" LOC = AE27;
+NET "dataB[2]" LOC = AE26;
+NET "dataB[1]" LOC = AC25;
+NET "dataB[0]" LOC = AC24;
+
+NET "dataC[0]" LOC = H18;
+NET "dataC[1]" LOC = L18;
+NET "dataC[2]" LOC = G15;
+NET "dataC[3]" LOC = AD26;
+NET "dataC[4]" LOC = G16;
+NET "dataC[5]" LOC = AD25;
+NET "dataC[6]" LOC = AD24;
+NET "dataC[7]" LOC = AE24;
+# PlanAhead Generated IO constraints 
+
+NET "clk" IOSTANDARD = LVCMOS25;
+
